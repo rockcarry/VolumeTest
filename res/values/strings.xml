@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VolumeTest</string>
+    <string name="btn_voice_call_vol_inc">call vol inc</string>
+    <string name="btn_voice_call_vol_dec">call vol dec</string>
+    <string name="btn_mode_in_call">mode in call</string>
+    <string name="btn_mode_normal">mode normal</string>
+</resources>
